@@ -1,0 +1,6 @@
+{
+  "name": "Corrigeo",
+  "description": "Assistant de correction pédagogique pour l'évaluation de rédactions manuscrites",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
